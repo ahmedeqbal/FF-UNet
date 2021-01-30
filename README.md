@@ -1,6 +1,6 @@
-# FF-UNet
+# FFUNet
 
-This repository contains the original implementation of "**FF-UNet: A U-shaped deep convolutional neural network for multimodal biomedical image segmentation**" in Keras (Tensorflow as backend).
+This repository contains the original implementation of "****" in Keras (Tensorflow as backend).
 
 # Paper
 
