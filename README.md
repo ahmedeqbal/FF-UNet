@@ -8,8 +8,7 @@ Under Review
 
 # Libs
 
-- Python 3.7.9
-- TensorFlow: 2.3.1
-- Keras: 2.4.0
-- Scikit-Learn: 0.23.2
-- Pandas: 1.1.3
+- Python 3.7.11
+- TensorFlow: 2.1.0
+- Keras: 2.2.4
+- Matplotlib: 3.4.3
