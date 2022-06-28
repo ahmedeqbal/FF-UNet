@@ -6,7 +6,16 @@ This repository contains the original implementation of "**[FF-UNet: a U-Shaped 
 
 <img src="paper_images/Architecture.webp">
 
-# Libs
+
+## Pretrained weights:
+
+Download from [**Google Drive**](https://drive.google.com/file/d/1FzRmNzoSxxNbvvSsUFMYrCwCqQTF58JO)
+
+## Demo:
+
+A demo can be found in [**Here**](https://github.com/ahmedeqbal/FF-UNet/blob/main/FF-UNet_implementation.ipynb)
+
+# Requirements
 
 - Python 3.7.11
 - TensorFlow: 2.1.0
